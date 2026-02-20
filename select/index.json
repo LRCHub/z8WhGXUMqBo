@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Solo",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-20T11:45:03.016592Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red Solo Cup",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/01_Red_Solo_Cup_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sólo una noche más",
+      "artist": "Miguel Mateos - ZAS",
+      "has_synced": true,
+      "path": "select/02_Sólo_una_noche_más_Miguel_Mateos_-_ZAS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02 - Sólo Una Noche Más",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/03_02_-_Sólo_Una_Noche_Más_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Solo Quiero Rock And Roll",
+      "artist": "La Torre",
+      "has_synced": false,
+      "path": "select/04_Solo_Quiero_Rock_And_Roll_La_Torre.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "16 - Sólo Quiero Rock And Roll",
+      "artist": "La Torre",
+      "has_synced": false,
+      "path": "select/05_16_-_Sólo_Quiero_Rock_And_Roll_La_Torre.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Solo - Cahill Club",
+      "artist": "Iyaz",
+      "has_synced": false,
+      "path": "select/06_Solo_-_Cahill_Club_Iyaz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aketo solo",
+      "artist": "Sniper",
+      "has_synced": false,
+      "path": "select/07_Aketo_solo_Sniper.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ragazzo Solo, Ragazza Sola - Full Length Stereo Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Ragazzo_Solo,_Ragazza_Sola_-_Full_Length_Stereo_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ragazzo Solo, Ragazza Sola (Full Length Stereo Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Ragazzo_Solo,_Ragazza_Sola_(Full_Length_Stereo_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Solo",
+      "artist": "Thomas D feat. Nina Hagen",
+      "has_synced": true,
+      "path": "select/10_Solo_Thomas_D_feat._Nina_Hagen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Solo (featuring Nina Hagen)",
+      "artist": "Thomas D",
+      "has_synced": true,
+      "path": "select/11_Solo_(featuring_Nina_Hagen)_Thomas_D.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Solo Power (Let's Get Paid)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/12_Solo_Power_(Let's_Get_Paid)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Solo Power (Syncopated Soul)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/13_Solo_Power_(Syncopated_Soul)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Special (feat. Offset and Solo Lucci)",
+      "artist": "Young Thug, Solo Lucci & Offset",
+      "has_synced": true,
+      "path": "select/14_Special_(feat._Offset_and_Solo_Lucci)_Young_Thug,_Solo_Lucci_&_Offset.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Special  (feat. Offset and Solo Lucci)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/15_Special_(feat._Offset_and_Solo_Lucci)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Apologies (Solo Acoustic Demo)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/16_All_Apologies_(Solo_Acoustic_Demo)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Apologies (Solo Acoustic)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/17_All_Apologies_(Solo_Acoustic)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Beans - Solo Acoustic",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/18_Beans_-_Solo_Acoustic_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Clean Up Before She Comes - Solo Acoustic",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/19_Clean_Up_Before_She_Comes_-_Solo_Acoustic_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Do Re Mi (Solo Acoustic Demo)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/20_Do_Re_Mi_(Solo_Acoustic_Demo)_Nirvana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Solo",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Solo_Frank_Ocean.txt"
+    }
+  ]
+}
