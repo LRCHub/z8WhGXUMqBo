@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Solo",
   "base_artist": "Frank Ocean",
-  "createdAt": "2026-02-20T11:45:03.016592Z",
+  "createdAt": "2026-03-21T04:57:15.392454Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -171,6 +171,15 @@
       "artist": "Frank Ocean",
       "has_synced": false,
       "path": "select/pl_01_Solo_Frank_Ocean.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Solo",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/localdb_01_Solo_Frank_Ocean.txt",
+      "repo_name": "z8WhGXUMqBo"
     }
   ]
 }
